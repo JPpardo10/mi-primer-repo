@@ -27,3 +27,4 @@ Aprendí que cuando haces algo una nueva cuenta te tienes que acordar de las con
 y también que nos pueden ayudar las llaves públicas y la encriptación , y no dar las contraseñas por que puede a llegar a ser muy peligroso.
 ¿Cómo funciona la búsqueda de google?
 La busqueda de google funciona gracias a todo el internet y los programadores. 
+gracias...
