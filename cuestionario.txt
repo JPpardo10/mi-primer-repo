@@ -1,0 +1,29 @@
+En tus palabras, ¿Qué es internet?          Juan Pablo Pardo 81
+El internet para mi es un lugar que puedes aprender todo y encontrar todo es un navegador muy grande.
+Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+
+Los medios físicos son fibra óptica , cable coaxial y etc. Y las ondas y todo esto es gracias a la velocidad de la luz.
+
+¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+
+No es nada más por un solo organismo , si no sus redes se conectan unas de otras , las DNS son las siglas que forman la denominación nos servira para traducir la dirección real. IP es una relación numérica.
+
+Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+
+Todo este procedimiento viene programando y por medio del internet .
+
+Describe los protocolos que existen en internet, en específico HTTP y HTML
+
+HTTP es un protocolo , es utilizado para petición de datos y recursos. HTML es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
+
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas
+
+De todo esto aprendi que la encriptación es muy importante por que es toda la seguridad y nos ayuda a guardar nuestra información 
+y las llaves publicas nos sirven para que las compus se comuniquen de una forma segura entre si a traves del internet .
+
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+
+Aprendí que cuando haces algo una nueva cuenta te tienes que acordar de las contraseñas y no usar una muy facil 
+y también que nos pueden ayudar las llaves públicas y la encriptación , y no dar las contraseñas por que puede a llegar a ser muy peligroso.
+¿Cómo funciona la búsqueda de google?
+La busqueda de google funciona gracias a todo el internet y los programadores. 
